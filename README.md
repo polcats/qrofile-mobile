@@ -1,9 +1,5 @@
 # qrofile
 
-This is a dedicated repository for the release versions of the qrofile project
-
-# qrofile
-
 Simplified digital profile exchange through QR codes.
 
 ## The Purpose
@@ -16,6 +12,10 @@ The original purpose of this project is to help establishments track and record 
 <img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile1.1.0/edit.jpg" />
 <img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile1.1.0/records_empty.jpg" />
 <img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile1.1.0/scan.jpg" />
-<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile1.1.0/settings.jpg" />
 <img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile1.1.0/records_content.jpg" />
 <img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile1.1.0/records_detail.jpg" />
+<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile1.1.0/settings.jpg" />
+
+# note
+
+This is a dedicated repository for the release versions of the qrofile project
