@@ -12,9 +12,9 @@ The original purpose of this project is to help establishments track and record 
 
 ### Sample Screenshots
 
-<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile2.1.1/dashboard.jpg" />
-<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile2.1.1/edit.jpg" />
+<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile2.1.1/dashboard.png" />
+<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile2.1.1/edit.png" />
 <img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile1.1.0/scan.jpg" />
 <img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile1.1.0/records_content.jpg" />
 <img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile1.1.0/records_detail.jpg" />
-<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile2.1.1/settings.jpg" />
+<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile2.1.1/settings.png" />
