@@ -10,11 +10,12 @@ This is a dedicated repository for the release versions of the qrofile project
 
 The original purpose of this project is to help establishments track and record visitors in a hassle-free manner during the pandemic. <br> The records could be useful for the potential need of COVID-19 contact tracing.
 
-### Sample Screenshots
+### Sample Screenshots (version 3.x-beta)
 
-<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile2.1.1/dashboard.png" />
-<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile2.1.1/edit.png" />
-<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile1.1.0/scan.jpg" />
-<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile1.1.0/records_content.jpg" />
-<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile1.1.0/records_detail.jpg" />
-<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile2.1.1/settings.png" />
+<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile3.x/login.png" />
+<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile3.x/register.png" />
+<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile3.x/home.jpg" />
+<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile3.x/settings.jpg" />
+<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile3.x/records.jpg" />
+<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile3.x/sample_scanner.png" />
+<img align="left" alt="Visual Studio Code" width="250px" src="docs/qrofile3.x/edit_profile.png" />
